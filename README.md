@@ -22,7 +22,7 @@ is very general and it gives you good suggestions for next sentences.
 Resources
 =========
 
-(Transformer)=[<https://github.com/huggingface/transformers>]
+[Transformer]=(<https://github.com/huggingface/transformers>)
 
 ScatterText
 
